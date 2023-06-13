@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="grad_color_item" type="id" />
+    <item name="fontList" type="id" />
+    <item name="fontName" type="id" />
+    <item name="emoji_textview" type="id" />
+    <item name="seekBar" type="id" />
+    <item name="emoji_listview" type="id" />
+    <item name="fontlist" type="id" />
+    <item name="emoji_list" type="id" />
+    <item name="copy" type="id" />
+    <item name="share1" type="id" />
+    <item name="viewPager" type="id" />
+</resources>
